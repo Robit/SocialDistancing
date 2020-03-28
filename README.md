@@ -1,5 +1,6 @@
 # SocialDistancing
 For server admins to guarentee safety and minimize the risk of the spread of COVID-19 on their servers, or just to have a fun April Fools event :)
+Pushes players apart if they're too close.
 
 **DEFAULT SETTINGS (in /plugins/SocialDistancing/config.yml)**
 isEnabled: true
