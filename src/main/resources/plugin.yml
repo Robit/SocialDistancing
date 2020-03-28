@@ -1,0 +1,14 @@
+name: SocialDistancing
+author: rm2023
+main: io.github.rm2023.SocialDistancing.Main
+version: 1.0
+api-version: "1.14"
+commands:
+   toggleSocialDistancing:
+      description: Toggles social distancing for the server
+      permission: socialdistancing.toggle
+      usage: /toggleSocialDistancing
+   reloadSocialDistancing:
+      description: Reloads social distancing for the server
+      permission: socialdistancing.reload
+      usage: /reloadSocialDistancing
