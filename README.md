@@ -1,3 +1,5 @@
+# THIS PLUGIN IS NO LONGER IN DEVELOPMENT. YOU ARE FREE TO FORK AND USE THE SOURCE UNDER THE MIT LICENSE
+
 # SocialDistancing
 For server admins to guarantee safety and minimize the risk of the spread of COVID-19 on their servers, or just to have a fun April Fools event :)
 Pushes players apart if they're too close.
